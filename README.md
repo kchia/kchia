@@ -1,4 +1,4 @@
-# Building AI Systems That Actually Ship 🚀
+# Hi there, I'm Hou 👋
 
 Senior Full-Stack Engineer with 10+ years of full-stack engineering, now making AI actually work in production— systems with real ROI. I design, build, and deploy AI applications that deliver measurable impact from prototype to production.
 
