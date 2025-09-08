@@ -4,28 +4,7 @@ Senior Full-Stack Engineer with 10+ years of full-stack engineering, now making 
 
 ## Currently Building
 
-Working on three production AI systems with a focus on metrics, governance, and real-world deployment:
-
-### RAG Production Platform
-*Status: In Development*
-
-Building a production-ready RAG system to handle 50K+ documents with enterprise-grade performance
-- **Target**: <400ms retrieval latency with hybrid search
-- **Focus**: RAGAS evaluation metrics, intelligent caching
-
-### PromptOps Framework
-*Status: Alpha*
-
-Creating enterprise prompt management with version control and regression prevention
-- **Target**: Zero regression deployments with CI/CD gates
-- **Focus**: A/B testing, automated evaluation
-
-### AI Workflow Orchestration
-*Status: Architecture Phase*
-
-Developing intelligent document processing with both LangGraph and native implementations
-- **Target**: 85% automation success rate
-- **Focus**: Human-in-the-loop approvals, observability
+Working on production AI systems with a focus on metrics, governance, and real-world deployment.
 
 ## 📊 Engineering Approach
 
