@@ -1,68 +1,78 @@
 # Hi there, I'm Hou 👋
 
-Senior Full-Stack Engineer with 10+ years of full-stack engineering, now making AI actually work in production— systems with real ROI. I design, build, and deploy AI applications that deliver measurable impact from prototype to production.
+Senior AI Engineer with 10+ years full-stack expertise, now specializing in production AI systems that deliver real ROI. 
 
-## Currently Building
+I build production-grade RAG pipelines, multi-agent systems, and LLM applications that are highly scalable and available.
 
-Working on production AI systems with a focus on metrics, governance, and real-world deployment.
+## 🚀 Current Focus
 
-## 📊 Engineering Approach
+Building production AI systems with LangGraph orchestration, vector databases for RAG, and RAGAS evaluation frameworks.
 
-```yaml
-Philosophy: Measure everything from Day 1
-Deployment: Ship at 80%, iterate based on data
-Testing: Evaluation frameworks before features
-Cost: Track every API call, optimize continuously
-Security: PII redaction, audit trails, governance first
-```
+**SELECT CLIENTS:** Allergan (AbbVie) • GameStop • Walmart • American Express • Intuit • Northern Trust • Pinterest • Indeed • Zocdoc
 
 ## 🛠️ Tech Stack
 
+### AI/ML Engineering
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-6B46C1?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-24386C?style=for-the-badge)
+
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### AI/ML Stack
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## Building in Public
+## 📊 Track Record
 
-➡️ [Subscribe to my newsletter](https://prompt-deploy.beehiiv.com) for weekly updates
+```yaml
+Full-Stack Experience: 10+ years in production
+Clients Served: Fortune 500 to startups  
+Engineers Trained: 500+ via bootcamps
+Founder: 8 years running Kappa Innovation
+Current Focus: Mastering production AI systems
+```
 
-## What I'm Looking For
+## 💼 Open For
 
-I'm open to conversations about:
+I'm exploring three paths:
 
-**Cofounder/CTO Opportunities**
-- Pre-seed/seed startups needing technical leadership
-- Teams that value iteration and measurement
-- Problems requiring production AI, not POCs
+### 1. AI Consulting & Development
+- Production LLM applications / RAG / Agent implementations
 
-**Consulting Engagements**
-- RAG implementation strategy
-- Prompt governance systems
-- AI cost optimization
-- Architecture reviews
+### 2. Founding Engineer (#1-5)
+- Joining funded startups ready to scale
+- Full ownership of technical architecture
 
-**Founding Engineer Roles**
-- Companies ready to scale AI infrastructure
-- Full ownership opportunities
-- Direct product impact
+### 3. Technical Co-Founder / CTO
+- Building in the AI space with the right partner
+- Leading technical vision and execution
 
-## Let's Connect
+## 🏗️ What I Build
 
-- [LinkedIn](https://linkedin.com/in/houchia)
-- [X/Twitter](https://x.com/promptdeploy)
-- [Newsletter](https://prompt-deploy.beehiiv.com)
+- **RAG Systems:** Production pipelines with advanced retrieval strategies
+- **Multi-Agent Orchestration:** LangGraph-based autonomous systems
+- **Full-Stack Applications:** Scalable React/Node.js/Python architectures
+- **Team Enablement:** AI adoption workshops and training programs
+
+## 📝 Building in Public
+
+➡️ [Subscribe to my newsletter](https://prompt-deploy.beehiiv.com) for AI engineering insights
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/houchia)
+- 🐦 [X/Twitter](https://x.com/promptdeploy)
+- 📧 [Email](mailto:kchia87@gmail.com)
+- 📰 [Newsletter](https://prompt-deploy.beehiiv.com)
