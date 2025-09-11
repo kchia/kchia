@@ -63,7 +63,7 @@ I'm exploring three paths:
 
 - **RAG Systems:** Production pipelines with advanced retrieval strategies
 - **Multi-Agent Orchestration:** LangGraph-based autonomous systems
-- **Full-Stack Applications:** Scalable React/Node.js/Python architectures
+- **Full-Stack Applications:** Scalable React/Next.js/Node.js/TypeScript/Python architectures
 - **Team Enablement:** AI adoption workshops and training programs
 
 ## 📝 Building in Public
