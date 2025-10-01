@@ -1,8 +1,8 @@
 # Hi there, I'm Hou 👋
 
-Senior AI Engineer with 10+ years full-stack expertise, now specializing in production AI systems that deliver real ROI. 
+Senior AI Engineer with 10+ years full-stack expertise, now specializing in production AI systems that deliver real ROI. I build production-grade RAG pipelines, multi-agent systems, and LLM applications that are highly scalable and available.
 
-I build production-grade RAG pipelines, multi-agent systems, and LLM applications that are highly scalable and available.
+I systematically leverage AI-powered development (Cursor, Claude Code, Copilot) to achieve enhanced engineering velocity while maintaining production standards.  This thoughtful approach to AI augmentation means I can architect, prototype, and deploy sophisticated systems faster and more reliably.
 
 ## 🚀 Current Focus
 
