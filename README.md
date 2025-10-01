@@ -6,7 +6,7 @@ I systematically leverage AI-powered development (Cursor, Claude Code, Copilot) 
 
 ## 🚀 Current Focus
 
-Building production AI systems with LangGraph orchestration, vector databases for RAG, and RAGAS evaluation frameworks.
+Shipping end-to-end AI applications that users actually love. Full-stack implementation from UI to LLM orchestration: React/Next.js frontends, LangGraph multi-agent backends, production RAG with vector stores, and RAGAS-validated performance.
 
 **SELECT CLIENTS:** Allergan (AbbVie) • GameStop • Walmart • American Express • Intuit • Northern Trust • Pinterest • Indeed • Zocdoc
 
