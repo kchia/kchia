@@ -46,18 +46,7 @@ Current Focus: Mastering production AI systems
 
 ## 💼 Open For
 
-I'm exploring three paths:
-
-### 1. AI Consulting & Development
-- Production LLM applications / RAG / Agent implementations
-
-### 2. Founding Engineer (#1-5)
-- Joining funded startups ready to scale
-- Full ownership of technical architecture
-
-### 3. Technical Co-Founder / CTO
-- Building in the AI space with the right partner
-- Leading technical vision and execution
+I help startups and enterprises ship production AI systems faster. I build RAG pipelines, multi-agent workflows, and LLM applications for Fortune 500 clients—delivering measurable ROI, not just prototypes. Available for consulting engagements.
 
 ## 🏗️ What I Build
 
