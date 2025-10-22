@@ -2,7 +2,7 @@
 
 I build AI systems that ship to production and scale reliably — RAG pipelines, multi-agent workflows, and LLM applications backed by 10+ years of engineering discipline.
 
-With experience shipping at scale for companies like Allergan, Walmart, Zocdoc, and GameStop, I bring production engineering to AI: proper evaluation, monitoring, cost optimization, and systems that don't break.
+With experience shipping at scale for companies like Allergan Aesthetics (Abbvie), Walmart, GameStop, and Zocdoc, I bring production engineering to AI: proper evaluation, monitoring, cost optimization, and systems that don't break.
 
 📝 Sharing insights at [prompt-deploy.beehiiv.com](https://prompt-deploy.beehiiv.com)
 
