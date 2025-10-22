@@ -1,23 +1,26 @@
 # Hi there, I'm Hou 👋
 
-Senior AI Engineer with 10+ years full-stack expertise, now specializing in production AI systems that deliver real ROI. I build production-grade RAG pipelines, multi-agent systems, and LLM applications that are highly scalable and available.
+I build AI systems that ship to production and scale reliably — RAG pipelines, multi-agent workflows, and LLM applications backed by 10+ years of engineering discipline.
 
-I systematically leverage AI-powered development (Cursor, Claude Code, Copilot) to achieve enhanced engineering velocity while maintaining production standards.  This thoughtful approach to AI augmentation means I can architect, prototype, and deploy sophisticated systems faster and more reliably.
+With experience shipping at scale for companies like Allergan, Walmart, Zocdoc, and GameStop, I bring production engineering to AI: proper evaluation, monitoring, cost optimization, and systems that don't break.
 
-## 🚀 Current Focus
+📝 Sharing insights at [prompt-deploy.beehiiv.com](https://prompt-deploy.beehiiv.com)
 
-Shipping end-to-end AI applications that users actually love. Full-stack implementation from UI to LLM orchestration: React/Next.js frontends, LangGraph multi-agent backends, production RAG with vector stores, and RAGAS-validated performance.
+## What I Build
 
-**SELECT CLIENTS:** Allergan (AbbVie) • GameStop • Walmart • American Express • Intuit • Northern Trust • Pinterest • Indeed • Zocdoc
+- **RAG Systems:** Production pipelines with hybrid search and evaluation frameworks
+- **Multi-Agent Workflows:** LangGraph-based orchestration for complex automation
+- **Full-Stack LLM Applications:** Next.js + FastAPI architectures that scale
+- **AI-Native Developer Tools:** Workflows and systems for production AI
+- **Team Enablement:** AI adoption workshops and training programs
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### AI/ML Engineering
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-6B46C1?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-24386C?style=for-the-badge)
 
 ### Languages & Frameworks
@@ -34,30 +37,21 @@ Shipping end-to-end AI applications that users actually love. Full-stack impleme
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 📊 Track Record
+## Background
 
-```yaml
-Full-Stack Experience: 10+ years in production
-Clients Served: Fortune 500 to startups  
-Engineers Trained: 500+ via bootcamps
-Founder: 8 years running Kappa Innovation
-Current Focus: Mastering production AI systems
-```
+Before specializing in AI engineering, I spent 10+ years as a full-stack engineer at companies like Allergan Aesthetics (AbbVie), Zocdoc (healthcare), and GameStop (blockchain/NFT integration).
 
-## 💼 Open For
+**Select Clients:** Allergan (AbbVie) • GameStop • Walmart • American Express • Intuit • Northern Trust • Zocdoc
 
-I help startups and enterprises ship production AI systems faster. I build RAG pipelines, multi-agent workflows, and LLM applications for Fortune 500 clients—delivering measurable ROI, not just prototypes. Available for consulting engagements.
+**Experience:** 10+ years in production  
+**Engineers Trained:** 500+ via bootcamps and enterprise workshops  
+**Company:** Founder of Kappa Innovation (8 years)
 
-## 🏗️ What I Build
+## What I'm Looking For
 
-- **RAG Systems:** Production pipelines with advanced retrieval strategies
-- **Multi-Agent Orchestration:** LangGraph-based autonomous systems
-- **Full-Stack Applications:** Scalable React/Next.js/Node.js/TypeScript/Python architectures
-- **Team Enablement:** AI adoption workshops and training programs
+AI engineering roles or consulting engagements where production experience matters.
 
-## 📝 Building in Public
-
-➡️ [Subscribe to my newsletter](https://prompt-deploy.beehiiv.com) for AI engineering insights
+**Open to:** AI Engineer • Founding Engineer (AI startups) • Senior Full-Stack Engineer (AI products) • Technical Consultant
 
 ## 🤝 Let's Connect
 
