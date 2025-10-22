@@ -39,13 +39,7 @@ With experience shipping at scale for companies like Allergan Aesthetics (Abbvie
 
 ## Background
 
-Before specializing in AI engineering, I spent 10+ years as a full-stack engineer at companies like Allergan Aesthetics (AbbVie), Zocdoc (healthcare), and GameStop (blockchain/NFT integration).
-
-**Select Clients:** Allergan (AbbVie) • GameStop • Walmart • American Express • Intuit • Northern Trust • Zocdoc
-
-**Experience:** 10+ years in production  
-**Engineers Trained:** 500+ via bootcamps and enterprise workshops  
-**Company:** Founder of Kappa Innovation (8 years)
+Before specializing in AI engineering, I spent 10+ years as a full-stack engineer at companies like Allergan Aesthetics (AbbVie), Zocdoc (healthcare tech), GameStop (blockchain/NFT), and conducting technical training for Walmart, American Express, Intuit, and Northern Trust. I founded Kappa Innovation LLC in 2017 and have trained 500+ engineers through bootcamps and enterprise workshops.
 
 ## What I'm Looking For
 
