@@ -47,6 +47,13 @@ AI engineering roles or consulting engagements where production experience matte
 
 **Open to:** AI Engineer • Founding Engineer (AI startups) • Senior Full-Stack Engineer (AI products) • Technical Consultant
 
+## Technical Consulting Ideal Engagements
+
+- Building your first production RAG system
+- Scaling from prototype to production AI application
+- Training your team on AI engineering best practices
+- Fractional technical leadership for AI-first startups
+
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/houchia)
