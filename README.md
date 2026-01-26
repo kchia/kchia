@@ -10,10 +10,10 @@ https://prompt-deploy.beehiiv.com and https://www.youtube.com/@promptdeploy
 ## What I Work On
 
 - **Full-Stack Applications**  
-  End-to-end systems built with TypeScript, React, Next.js, Node.js, Python, and FastAPI, designed to scale, be observable, and be owned long-term.
+  End-to-end systems built with TypeScript, React, Next.js, Node.js, Python, and FastAPI, designed to scale, be observable, and be owned long-term. Some projects use LangChain/LangGraph for orchestration.
 
-- **AI-Enabled Product Features (Exploratory)**  
-  Applying LLM capabilities to specific product workflows where they add leverage, with guardrails, evaluation, and clear degradation paths.
+- **AI-Powered Product Features (Exploratory)**  
+  Applying LLM capabilities to specific product workflows where they add leverage, with guardrails, evaluation, and clear degradation paths. 
 
 - **Data Retrieval & Search Patterns**  
   Structured retrieval pipelines (including vector-based approaches) used to support AI features without compromising reliability or cost.
