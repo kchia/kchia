@@ -1,6 +1,6 @@
 # Hi, I’m Hou 👋
 
-I’m a **senior full-stack engineer** with 10+ years of experience building and operating **secure, scalable, high-reliability web platforms**. My background spans healthcare and large-scale consumer products, where correctness, uptime, and operational discipline mattered more than novelty. I’ve been **intentionally extending my full-stack skill set into AI/LLM integration** through self-directed project work. I approach AI the same way I approach any complex dependency: with guardrails, observability, cost awareness, and clearly understood failure modes. I’m particularly interested in where AI *should* and *should not* be used in real product workflows.
+I’m a **senior full-stack engineer** with 10+ years of experience building and operating secure, scalable, high-reliability web platforms. My background spans healthcare and large-scale consumer products, where correctness, uptime, and operational discipline mattered. I’ve been intentionally extending my full-stack skill set into AI/LLM integration through self-directed initiatives. I approach AI the same way I approach any complex dependency: with guardrails, observability, cost awareness, and clearly understood failure modes. I’m particularly interested in where AI *should* and *should not* be used in real product workflows.
 
 📝 I share notes and experiments from this work at  
 https://prompt-deploy.beehiiv.com and https://www.youtube.com/@promptdeploy
@@ -73,13 +73,13 @@ https://prompt-deploy.beehiiv.com and https://www.youtube.com/@promptdeploy
 
 Before working on AI-enabled features, I spent over a decade as a full-stack engineer shipping code at companies including **Allergan Aesthetics (AbbVie), Zocdoc, and GameStop**. That experience shaped how I think about system design, on-call ownership, and long-term maintainability.
 
-I founded **Kappa Innovation LLC** - a solo software development and tech training consultancy. I have designed and delivered software engineering training — including AI-related curricula — for enterprise and bootcamp programs, training **500+ engineers**. Teaching reinforced my bias toward clarity, fundamentals, and avoiding unnecessary complexity.
+I founded **Kappa Innovation LLC** - a solo software development and tech training consultancy. I designed and delivered software engineering training — including AI-related curricula — for enterprise and bootcamp programs, training over 500 engineers live. Teaching reinforced my bias toward clarity, fundamentals, and avoiding unnecessary complexity.
 
 ---
 
 ## What I’m Looking For
 
-Senior **full-stack engineering roles** working on **AI-powered products**.
+Senior full-stack engineering roles working on AI-powered products.
 
 ---
 
