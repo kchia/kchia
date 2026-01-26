@@ -1,62 +1,92 @@
-# Hi there, I'm Hou 👋
+# Hi, I’m Hou 👋
 
-I build AI systems that ship to production and scale reliably — RAG pipelines, multi-agent workflows, and LLM applications backed by 10+ years of engineering discipline.
+I’m a **senior full-stack engineer** with 10+ years of experience building and operating **secure, scalable, high-reliability web platforms**. My background spans healthcare and large-scale consumer products, where correctness, uptime, and operational discipline mattered more than novelty. I’ve been **intentionally extending my full-stack skill set into AI/LLM integration** through self-directed project work. I approach AI the same way I approach any complex dependency: with guardrails, observability, cost awareness, and clearly understood failure modes. I’m particularly interested in where AI *should* and *should not* be used in real product workflows.
 
-With experience shipping at scale for companies like Allergan Aesthetics (Abbvie), Walmart, GameStop, and Zocdoc, I bring production engineering to AI: proper evaluation, monitoring, cost optimization, and systems that don't break.
+📝 I share notes and experiments from this work at  
+https://prompt-deploy.beehiiv.com and https://www.youtube.com/@promptdeploy
 
-📝 Sharing insights at [prompt-deploy.beehiiv.com](https://prompt-deploy.beehiiv.com)
+---
 
-## What I Build
+## What I Work On
 
-- **RAG Systems:** Production pipelines with hybrid search and evaluation frameworks
-- **Multi-Agent Workflows:** LangGraph-based orchestration for complex automation
-- **Full-Stack LLM Applications:** Next.js + FastAPI architectures that scale
-- **AI-Native Developer Tools:** Workflows and systems for production AI
-- **Team Enablement:** AI adoption workshops and training programs
+- **Full-Stack Applications**  
+  End-to-end systems built with TypeScript, React, Next.js, Node.js, Python, and FastAPI, designed to scale, be observable, and be owned long-term.
 
-## Tech Stack
+- **AI-Enabled Product Features (Exploratory)**  
+  Applying LLM capabilities to specific product workflows where they add leverage, with guardrails, evaluation, and clear degradation paths.
 
-### AI/ML Engineering
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-6B46C1?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-24386C?style=for-the-badge)
+- **Data Retrieval & Search Patterns**  
+  Structured retrieval pipelines (including vector-based approaches) used to support AI features without compromising reliability or cost.
 
-### Languages & Frameworks
+- **Operational Scaffolding**  
+  Error handling, monitoring, evaluation harnesses, and CI/CD that make complex systems — including AI-assisted ones — debuggable and supportable.
+
+---
+
+## Tech I Use
+
+### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Infrastructure
+---
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+---
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+---
+
+### Data & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### Infrastructure & Operations
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+### AI-Enabled Features (Project Work)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20API-6B46C1?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-3B3B3B?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-24386C?style=for-the-badge)
+
+---
 
 ## Background
 
-Before specializing in AI engineering, I spent 10+ years as a full-stack engineer at companies like Allergan Aesthetics (AbbVie), Zocdoc (healthcare tech), GameStop (blockchain/NFT), and conducting technical training for Walmart, American Express, Intuit, and Northern Trust. I founded Kappa Innovation LLC in 2017 and have trained 500+ engineers through bootcamps and enterprise workshops.
+Before working on AI-enabled features, I spent over a decade as a full-stack engineer shipping code at companies including **Allergan Aesthetics (AbbVie), Zocdoc, and GameStop**. That experience shaped how I think about system design, on-call ownership, and long-term maintainability.
 
-## What I'm Looking For
+I founded **Kappa Innovation LLC** - a solo software development and tech training consultancy. I have designed and delivered software engineering training — including AI-related curricula — for enterprise and bootcamp programs, training **500+ engineers**. Teaching reinforced my bias toward clarity, fundamentals, and avoiding unnecessary complexity.
 
-AI engineering roles or consulting engagements where production experience matters.
+---
 
-**Open to:** AI Engineer • Founding Engineer (AI startups) • Senior Full-Stack Engineer (AI products) • Technical Consultant
+## What I’m Looking For
 
-## Technical Consulting Ideal Engagements
+Senior **full-stack engineering roles** working on **AI-powered products**.
 
-- Building your first production RAG system
-- Scaling from prototype to production AI application
-- Training your team on AI engineering best practices
-- Fractional technical leadership for AI-first startups
+---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/houchia)
-- 🐦 [X/Twitter](https://x.com/promptdeploy)
-- 📧 [Email](mailto:kchia87@gmail.com)
-- 📰 [Newsletter](https://prompt-deploy.beehiiv.com)
+- [YouTube](https://www.youtube.com/@promptdeploy)
+- [LinkedIn](https://linkedin.com/in/houchia)
+- [X](https://x.com/promptdeploy)
+- [Newsletter](https://prompt-deploy.beehiiv.com)
+- Email: kchia87@gmail.com
