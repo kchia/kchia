@@ -1,6 +1,8 @@
 # Hi, I’m Hou 👋
 
-I’m a **senior full-stack engineer** with 10+ years of experience building and operating secure, scalable, high-reliability web platforms. My background spans healthcare and large-scale consumer products, where correctness, uptime, and operational discipline mattered. I’ve been intentionally extending my full-stack skill set into AI/LLM integration through self-directed initiatives. I approach AI the same way I approach any complex dependency: with guardrails, observability, cost awareness, and clearly understood failure modes. I’m particularly interested in where AI *should* and *should not* be used in real product workflows.
+I’m a **senior full-stack engineer** with 10+ years of experience building and operating secure, scalable, high-reliability web platforms. My background spans healthcare and large-scale consumer products, where correctness, uptime, and operational discipline mattered. 
+
+I’ve been intentionally extending my full-stack skill set into AI/LLM integration through self-directed initiatives. I approach AI the same way I approach any complex dependency: with guardrails, observability, cost awareness, and clearly understood failure modes. I’m particularly interested in where AI *should* and *should not* be used in real product workflows.
 
 📝 I share notes and experiments from this work at  
 https://prompt-deploy.beehiiv.com and https://www.youtube.com/@promptdeploy
