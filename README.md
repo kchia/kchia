@@ -14,7 +14,7 @@ https://prompt-deploy.beehiiv.com and https://www.youtube.com/@promptdeploy
 - **Full-Stack Applications**  
   End-to-end systems built with TypeScript, React, Next.js, Node.js, Python, and FastAPI, designed to scale, be observable, and be owned long-term. Some projects use LangChain/LangGraph for orchestration.
 
-- **AI-Powered Product Features (Exploratory)**  
+- **AI-Powered Product Features**  
   Applying LLM capabilities to specific product workflows where they add leverage, with guardrails, evaluation, and clear degradation paths. 
 
 - **Data Retrieval & Search Patterns**  
