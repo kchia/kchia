@@ -85,6 +85,18 @@ Senior full-stack engineering roles working on AI-powered products.
 
 ---
 
+## Project Spotlight: ComponentForge
+
+[View Repository](https://github.com/kchia/component-forge/)
+
+An AI-powered design-to-code pipeline that transforms visual inputs (screenshots and Figma) into accessible, production-ready React components.
+
+Key Engineering Pillars:
+
+- **Design System Integrity**: Uses a multi-agent RAG architecture to ensure generated code strictly follows shadcn/ui patterns and local design system tokens.
+- **Structured Orchestration**: Moves beyond "one-shot" generation by using specialized agents to handle visual analysis, architectural mapping, and accessibility validation.
+- **Operational Reliability**: Built with the same discipline as a standard full-stack dependency, focusing on observability and predictable component output rather than just creative generation.
+
 ## 🤝 Connect
 
 - [YouTube](https://www.youtube.com/@promptdeploy)
